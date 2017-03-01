@@ -20,11 +20,16 @@ You can find him at @sohansubhash on twitter.
 
 # THANKS
 
-  <name>
+Skyler Ruesga		@sruesga on GitHub
+George Hutchinson	@GeoHutch on GitHub
 
 # TECHNOLOGY COLOPHON
 
-Firebase - Hosting and SSL encryption
-Firebase.google.com
+Firebase - Hosting and SSL certificate
+firebase.google.com
 
-  HTML5, CSS3
+Real Favicon Generator - Painless favicon support
+realfavicongenerator.net
+
+Google Fonts - Open source fonts
+fonts.google.com

@@ -6,7 +6,10 @@ body {
         font-family: 'Inconsolata';
         font-size: 14;
       }
-
+footer {
+        font-family: 'Inconsolata';
+        font-size: 14;
+      }
 
 /*@media (max-width: 767px) {
 	.header {
@@ -310,13 +313,13 @@ a {
   color: #FF6664;
 }
 
-a.underlined {
+/*a.underlined {
   color: #FF6664;
 }
 
 a.underlined:hover {
   padding:9px;
-}
+}*/
 
 a:active {
     text-decoration: none;
@@ -353,143 +356,6 @@ span.expand2:hover {
   display:none;
 }
 
-.backbutton {
- font-weight: 700;
- position: fixed;
- top:5%;
- left:3%;
- font-size:1.2em;
-}
-
-.upbutton {
- font-weight: 700;
- font-size:1.6em;
- width: 100%;
-}
-
-.petra {
-      border-radius: 3px;
-    margin-bottom: 25px;
-    transition: 0.4s;
-    -webkit-transition: 0.4s;
-}
-
-.petra::after {
-    z-index: -1;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-    transition: opacity 0.3s ease-in-out;
-}
-
-.petra:hover{
-  transform: scale(1.03, 1.03);
-  -webkit-transform: scale(1.03, 1.03);
-  background-color: #4FC3F7;
-}
-
-.petra:hover p {
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  color: #FFFFFF;
-}
-
-.petra:hover h3 {
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  color: #FFFFFF;
-}
-
-.gigster {
-      border-radius: 3px;
-    margin-bottom: 25px;
-    transition: 0.4s;
-    -webkit-transition: 0.4s;
-}
-
-.gigster::after {
-    z-index: -1;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-    transition: opacity 0.3s ease-in-out;
-}
-
-.gigster:hover{
-  transform: scale(1.03, 1.03);
-  -webkit-transform: scale(1.03, 1.03);
-  background-color: #0378E6;
-}
-
-.gigster:hover p {
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  color: #FFFFFF;
-}
-
-.gigster:hover h3 {
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  color: #FFFFFF;
-}
-
-.airbnb {
-      border-radius: 3px;
-    margin-bottom: 25px;
-    transition: 0.4s;
-    -webkit-transition: 0.4s;
-}
-
-.airbnb::after {
-    z-index: -1;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-    transition: opacity 0.3s ease-in-out;
-}
-
-.airbnb:hover{
-  transform: scale(1.03, 1.03);
-  -webkit-transform: scale(1.03, 1.03);
-  background-color: #FF5A5F;
-}
-
-.airbnb:hover p {
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  color: #FFFFFF;
-}
-
-.airbnb:hover h3 {
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  color: #FFFFFF;
-}
-
-.buildabear {
-      border-radius: 3px;
-    margin-bottom: 25px;
-    transition: 0.4s;
-    -webkit-transition: 0.4s;
-}
-
-.buildabear::after {
-    z-index: -1;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-    transition: opacity 0.3s ease-in-out;
-}
-
-.buildabear:hover{
-  transform: scale(1.03, 1.03);
-  -webkit-transform: scale(1.03, 1.03);
-  background-color: #4291FF;
-}
-
-.buildabear:hover p {
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  color: #FFFFFF;
-}
-
-.buildabear:hover h3 {
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  color: #FFFFFF;
-}
 
 footer {
     margin: 50px 0;
