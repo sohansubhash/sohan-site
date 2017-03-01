@@ -1,0 +1,30 @@
+ ______     ______     __  __     ______     __   __                         
+/\  ___\   /\  __ \   /\ \_\ \   /\  __ \   /\ "-.\ \                        
+\ \___  \  \ \ \/\ \  \ \  __ \  \ \  __ \  \ \ \-.  \                       
+ \/\_____\  \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_\\"\_\                      
+  \/_____/   \/_____/   \/_/\/_/   \/_/\/_/   \/_/ \/_/                      
+                                                                             
+
+CONGRATULATIONS, you found my humans.txt file!
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site.
+
+
+# SOHANSUBHASH.INFO TEAM
+
+This website was hand-crafted by Sohan Subhash.
+
+You can find him at @sohansubhash on twitter.
+
+
+# THANKS
+
+  <name>
+
+# TECHNOLOGY COLOPHON
+
+Firebase - Hosting and SSL encryption
+Firebase.google.com
+
+  HTML5, CSS3
