@@ -6,19 +6,18 @@
 
 @font-face{
 	font-family: 'Merriweather';
-	src: url(./fonts/Iconsolata/Iconsolata-Regular.tff) format("truetype");
+	src: url(./fonts/Merriweather/Merriweather-BlackItalic.ttf) format("truetype");
 }
 
 h1 {
-        font-family: 'Merriweather', serif;
+        font-family: 'Merriweather', sans-serif;
         font-size: 48px;
-        text-align: center;
+
       
 	}
 h2 {
-        font-family: 'Merriweather', serif;
-        font-size: 48px;
-        text-align: center;
+        font-family: 'Merriweather', sans-serif;
+        font-size: 32px;
       }
 body {
         font-family: 'Inconsolata', monospace;
@@ -29,7 +28,6 @@ body {
 footer {
         font-family: 'Inconsolata', monospace;
         font-size: 14;
-        text-align: center;
       }
 
 button {
@@ -39,8 +37,8 @@ button {
   width: 130px;
   border-radius: 40px;
   background: #fff;
-  border: 2px solid #1ECD97;
-  color: #1ECD97;
+  border: 2px solid #757575;
+  color: #757575;
   letter-spacing: 1px;
   text-shadow: 0;
   font-size: 12px;
@@ -48,15 +46,30 @@ button {
   cursor: pointer;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
-}
-button:hover {
-  color: white;
-  background: #1ECD97;
-}
-button:active {
   letter-spacing: 2px;
 }
-button:after {
-  content: "restart";
+
+button:hover {
+  color: white;
+  background:#757575;
 }
+
+#inline{
+display: inline-block; 
+  top: 50%;
+  left: 50%;
+
+}
+
+P#inline {
+  top: 50%;
+  left: 50%;
+
+}
+
+caption{
+display: inline-block;
+margin-bottom: 50px;
+}
+
 
